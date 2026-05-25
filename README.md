@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Environnement utilisé
+##  Environnement utilisé
 
 | Composant | Détail |
 |---|---|
